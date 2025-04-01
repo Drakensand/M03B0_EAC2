@@ -37,3 +37,4 @@ class MySeleniumTests(StaticLiveServerTestCase):
         self.assertEqual(self.selenium.title, "Site administration | Django site admin")
 
 # Create your tests here.
+# Comentari per pull de Actions Test Github
